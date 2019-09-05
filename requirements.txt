@@ -1,7 +1,5 @@
-numpy==1.16.*
-matplotlib==3.*
+numpy==1.18.dev0
+matplotlib==3.1.1
 seaborn==0.8.1
 pandas
-ipython==6.1.0
-urllib3==1.22
-uncertainties==3.1.*
+uncertainties==3.1.2
